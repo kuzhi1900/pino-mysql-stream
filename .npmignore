@@ -1,0 +1,17 @@
+package-lock.json
+pnpm-lock.yaml
+src/pino-mysql-stream.mjs
+.eslintrc.js
+.gitignore
+.idea
+webpack.config.js
+*.tgz
+.prettierrc
+.npmrc
+.eslintignore
+.eslintrc
+.prettierignore
+src
+esbuild*.js
+rollup*
+
